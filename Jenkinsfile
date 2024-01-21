@@ -17,6 +17,7 @@ pipeline {
 			steps {
 				echo "test script"
 				echo "this environment is deploy"
+				echo " hello"
 				}	
 			
 		}
